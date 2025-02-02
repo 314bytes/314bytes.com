@@ -1,0 +1,7 @@
+#
+# robots.txt for http://www.314bytes.com/ 
+#
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /privacy.html
